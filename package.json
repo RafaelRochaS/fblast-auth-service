@@ -26,5 +26,6 @@
     "restify-clients": "^2.6.9",
     "sequelize": "^6.6.5",
     "sqlite3": "^5.0.2"
-  }
+  },
+  "type": "module"
 }
